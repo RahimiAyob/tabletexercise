@@ -1,5 +1,5 @@
 table, td, th {
-  border: 2px solid;
+  border: 3px solid;
   border-collapse: collapse;
   border-color: black;
 }
@@ -28,4 +28,27 @@ h1{
 
 #row2, #row4 {
   background-color: #ECE8EF;
+}
+
+
+.csc429{
+  background-color: yellow;
+}
+.csc413{
+  background-color: purple;
+  color: white;
+}
+.csc402{
+  background-color: cyan;
+}
+.ict450{
+  background-color: sandybrown;
+}
+.mat406{
+  background-color: red;
+  color: white;
+}
+.ctu552{
+  background-color: blue;
+  color: white;
 }
