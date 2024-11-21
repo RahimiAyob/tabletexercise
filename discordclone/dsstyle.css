@@ -29,3 +29,12 @@ body {
   color: white;
   padding: 25px;
 }
+
+.buttonmain{
+  border-radius: 50px;
+  font-size: 25px;
+  border: none;
+  padding: 25px;
+  margin-top: 10px;
+  background-color: yellow;
+}
