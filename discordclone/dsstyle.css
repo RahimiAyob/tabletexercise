@@ -1,0 +1,31 @@
+body {
+  background-color: #0B0E4D;
+}
+
+#more{
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+.main {
+  text-align: center;
+  color: white;
+  margin: auto;
+}
+
+.downloadbutton{
+  border-radius: 50px;
+  font-size: 25px;
+  border: none;
+  padding: 25px;
+}
+
+.discordbrowser{
+  border-radius: 50px;
+  font-size: 25px;
+  background-color: #161CBB;
+  border: none;
+  color: white;
+  padding: 25px;
+}
