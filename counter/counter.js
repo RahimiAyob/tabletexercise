@@ -27,7 +27,7 @@ function fasteradd(){
 }
 
 function backhome(){
-  window.location.href = "/tabletexercise/index.html";
+  window.location.href = "index.html";
 }
 function check727() {
   if (num===727){

@@ -19,5 +19,5 @@ async function changepage() {
  }
 
  function mainpage(){
-    window.location.href = "/tabletexercise/index.html";
+    window.location.href = "index.html";
  }
